@@ -1,3 +1,5 @@
+README
+
 Done by: 
 
 -Jordi Comellas, u186667
@@ -6,8 +8,8 @@ Done by:
 
 Instructions:
 
-- Tu run our code it is needed to change the paths from the last cell on the 0.Imports and Paths part,
-and change it to the user's own paths to the json file and the csv file respectively.
+- Tu run our code it is needed to change the paths from evaluation_path on the Evaluation of proposed queries cell (path to the csv file created by us that you can find on the repository), the evaluation_path on the Evaluation components cell (path to the csv file given, evaluation_gt.csv), the path to the tweets_path and id_to_docs_path on imports and paths cell (paths to the tweets json file and the doc ids csv, respectively).
 
-- Then the rest consist in executing all cells in order, there are no more changes needed nor any kind of use instruction,
-since the code will run automatically and it will not ask for the collaboration of the user to output any result. 
+- In the csv Experted_Judges_gt.csv is the one that contain the queries created by ourselves and that is necesary for the code in one of the evaluation tasks.
+
+- Then the rest consist in executing all cells in order, there are no more changes needed nor any kind of use instruction, since the code will run automatically and it will not ask for the collaboration of the user to output any result. 
