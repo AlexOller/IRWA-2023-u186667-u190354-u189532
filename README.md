@@ -31,7 +31,7 @@ This part of the project constists on a folder where we have the main code, name
   # Make sure we use Python 3
   python web_app.py
 ```
-    It will print several lines in the terminal. Copy the URL similar to "http://127.0.0.1:8088/" and paste it in your browser. 
+It will print several lines in the terminal. Copy the URL similar to "http://127.0.0.1:8088/" and paste it in your browser. 
 
 
 5. Finally you can use the search engine. You can click on the different URLs of the tweets, and there find the stats and dashboards of the session. 
